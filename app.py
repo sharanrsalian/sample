@@ -1,2 +1,2 @@
-print "hi"
+print "hi ji"
 print "hello ji "
