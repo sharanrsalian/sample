@@ -1,3 +1,7 @@
+
 print "from dev1 "
-print "hi ji"
+print "hi"
+print " dev3 "
+print "hi"
+
 print "hello ji "
